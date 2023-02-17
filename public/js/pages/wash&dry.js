@@ -17,7 +17,6 @@ window.addEventListener("load", function () {
 //     }
 // }, 1000)
 
-
 const datetimeInput1 = document.getElementById("datetime1");
 const datetimeInput2 = document.getElementById("datetime2");
 const datetimeInput3 = document.getElementById("datetime3");
