@@ -1,0 +1,9 @@
+.food-item-category-list-box.active figure img {
+    opacity: 1;
+}
+
+.food-item-header-title img {
+    border-radius: 50px;
+    max-width: 70px;
+    max-height: 70px;
+}

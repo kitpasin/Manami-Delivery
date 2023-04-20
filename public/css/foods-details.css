@@ -1,0 +1,4 @@
+.dish-item-image-dishimg img {
+    max-width: 250px !important;
+    max-height: 250px !important;
+}
